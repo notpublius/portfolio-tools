@@ -27,6 +27,9 @@ As of August 2020, the landscape of data looks like this:
 * GISC
   * Schwab (best source-full breakdown via "sector" tab)
   * TDAmeritrade (shows sectory/industry under stock name)
+  * (update 2/17) - Seeking Alpha - not scrapable afaik - requires browser
+  * (update 2/17) - Motley Fool - maybe could scrap, but the url is strange -- has company name in it
+  * (update 2/17) - Wikipedia page listing S&P 500 companies
 * ICB
   * Bloomberg (maybe? seems pretty close)
 * Morningstar
